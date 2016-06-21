@@ -38,6 +38,7 @@
 
 ## Browser Extensions
 
++ [Refined Github](https://github.com/sindresorhus/refined-github) [[chrome](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)] - Chrome extension that simplifies the GitHub interface and adds useful features 
 + [GitHub Avatars](https://GitHub.com/anasnakawa/chrome-GitHub-avatars) [[chrome](https://chrome.google.com/webstore/detail/avatars-for-GitHub/pgjmdbklnfklcjfbonjfkdhaonlfogbb)] - Display avatars in GitHub news feed.
 + [GitHub Awesome Autocomplete](https://GitHub.algolia.com/) [[chrome](https://chrome.google.com/webstore/detail/GitHub-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/GitHub-awesome-autocomplete/)] – Add instant search capabilities to GitHub search box.
 + [GitHub Categoric](https://GitHub.com/ozlerhakan/categoric) [[chrome](https://chrome.google.com/webstore/detail/GitHub-categoric/gbfpmfhnfmobaichcfnhdobencecomhg)] – Categorize your mixed GitHub notifications.
